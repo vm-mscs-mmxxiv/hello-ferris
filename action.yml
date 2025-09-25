@@ -1,0 +1,6 @@
+name: "Rust Hello Action"
+description: "A simple Rust-based GitHub Action"
+runs:
+  using: "docker"
+  image: "Dockerfile"
+
